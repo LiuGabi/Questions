@@ -1,2 +1,3 @@
 # Questions
-Coding 中所遇到的问题集合以及解决方式
+
+## 微信中：H5 页面 AppleStore 域名被屏蔽以及下载功能不能使用。
